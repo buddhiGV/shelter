@@ -7,13 +7,14 @@ PygmentsCodeFences = true
 canonifyurls = true
 
 # Disqus Username
-disqusShortname = "disqus_shortname"
+disqusShortname = "buddhigv"
 
 # Google Analytics UA number
-googleAnalytics = "UA-XXXXXXXX-X"
+googleAnalytics = "UA-115034479-1"
 
 # Copyright of your post
-copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+copyright = "© This post is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License,based on a work at http://www.buddhigv.fun，please give source if you like to quote or reproduce"
+
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
@@ -21,18 +22,6 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   weight = 10
   identifier = "home"
   url = "/"
-
-[[menu.main]]
-  name = "Read"
-  weight = 20
-  identifier = "read"
-  url = "/read/"
-
-[[menu.main]]
-  name = "Tech"
-  weight = 20
-  identifier = "tech"
-  url = "/tech/"
 
 
 [[menu.main]]
@@ -46,7 +35,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   author = "BuddhiGV"
   avatar = "/img/avatar.jpg"
   seotitle = "buddhigv fun blog"
-  subtitle = "~ Keep It Simple & Stupid ~"
+  subtitle = "~ BuddhiGV is here to have fun ~"
   description = "BuddhiGV is here to have fun"
   paginate = 10
 
@@ -69,8 +58,8 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Google Webmaster
   # https://www.google.com/webmasters/
-  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
-
+  googleSiteVerification = "QJqXJHdI1PnOciLaJY-PFksyyYltpPnVaZU08ufWD4Q"
+# <meta name="google-site-verification" content="QJqXJHdI1PnOciLaJY-PFksyyYltpPnVaZU08ufWD4Q" />
   # Bing Webmaster
   # https://www.bing.com/toolbox/webmaster/
   msValidate = "22596E34341DD1D17D6022C44647E587"
