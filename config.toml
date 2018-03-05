@@ -1,4 +1,4 @@
-baseURL = "http://www.buddhigv.fun/"
+baseURL = "/"
 languageCode = "en"
 title = "Buddhi GV"
 theme = "hugo-nuo"
