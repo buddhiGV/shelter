@@ -10,3 +10,10 @@ comments: false
 
 ## It's simple.   
 ## BuddhiGV just wants to have some fun!
+
+
+Email your thoughts at : [contact@buddhigv.fun](mailto://contact@buddhigv.fun?subject=Hi,BuddhiGV!)
+
+* * * 
+* * *
+

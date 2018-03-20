@@ -2,7 +2,7 @@
 title: "Radha"
 author: "buddhiGV"
 cover: "/img/cover.jpg"
-tags: ["love", "radha"]
+tags: ["love", "radha","stories"]
 date: 2018-03-07T20:01:39+05:30
 draft: false
 ---
